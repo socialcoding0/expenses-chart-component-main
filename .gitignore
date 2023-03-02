@@ -14,3 +14,8 @@
 # Avoid your project being littered with annoying .DS_Store files!
 .DS_Store
 .prettierignore
+
+.scss linguist detectable=true
+.css linguist detectable=false
+.html linguist detectable=false
+.js linguist detectable=false
